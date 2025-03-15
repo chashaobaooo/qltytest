@@ -1,0 +1,7 @@
+checks:
+  - class: SumEqualValCheck
+  - class: NegativeColCheck
+  - class: SumEqualValCheck
+    entered_val: 5
+
+# do smth for user to js run this and get output
