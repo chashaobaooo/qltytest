@@ -20,5 +20,6 @@ if __name__ == "__main__":
     # framework.run(checks, pd.read_excel("Book2.xlsx"))
     framework.run(checks, pd.DataFrame([[1, -2, 3, 4, 5], [2, -1, 3, 3, 7], [1, 1, 1, 1, 1]]))
 
-# 1. in 'poetry-demo' file, type 'poetry install' in terminal
-# 2. in 'poetry_demo' file, type 'poetry run python test.py' in terminal to run
+# 1. start venv using 'source venv/bin/activate'
+# 2. in 'poetry-demo' file, type 'poetry install' in terminal
+# 3. in 'poetry_demo' file, type 'poetry run python test.py' in terminal to run
